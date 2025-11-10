@@ -9,4 +9,4 @@ paper: https://dl.acm.org/doi/pdf/10.1145/3746027.3754708
 - [ ] Release checkpoints on main datasets
 ## Acknowledgements
 
-This repo benefits from 3DGS, LightGaussian, Gaussian Lightning. Thanks for their great work!
+This repo benefits from 3DGS and cityGS v1. Thanks for their great work!
