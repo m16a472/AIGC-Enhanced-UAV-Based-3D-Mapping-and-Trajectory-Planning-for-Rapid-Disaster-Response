@@ -3,8 +3,10 @@
 paper: https://dl.acm.org/doi/pdf/10.1145/3746027.3754708
 
 ## TODO List
-- [x  ] First Release
-- [ ] Release CityGaussian code
-- [ ] Release ColMap results of main datasets
-- [ ] Release detailed instruction for custom dataset usage
+- [x] First Release
+- [x] Release the code
+- [ ] Release detailed instruction for datasets usage
 - [ ] Release checkpoints on main datasets
+## Acknowledgements
+
+This repo benefits from 3DGS, LightGaussian, Gaussian Lightning. Thanks for their great work!
